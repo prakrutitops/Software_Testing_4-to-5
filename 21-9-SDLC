@@ -1,0 +1,68 @@
+Testing:
+
+1) Manual -> By User
+2) Automation ->By Software
+
+Testing:
+Actual Requirement[Expected Result]-85%
+Actual Result-75%
+
+1.What is Testing?
+
+Testing:
+
+Gap->Wrong direction
+Error->close,crash
+Missing requirement->
+
+Testing:
+Software Testing is a process used to identify the correctness,
+completeness, and quality of developed computer software.
+
+SDLC->software development lifecycle
+
+2. Testing Activities
+Process
+SDLC->software development lifecycle
+Static->Without Executing code
+Dynamic->With Executing code
+Planning
+Preparation
+Evaluation
+Software related Products
+
+SDLC Stages/Phases:
+1)Requirement Gathering:
+->Collect your requirement client
+->Language,Tables,Diagrams(UML-unified modeling language)
+
+Functional Requirement
+Non Functional
+Customer Requirement
+
+2)Analysis
+->
+
+3)Designing
+->
+Web-> HTML,CSS
+App-> XML(UI/UX Developer)
+
+
+4)Implementation
+Development->coding
+
+
+5)Testing
+Manual Testing
+
+Production=>
+
+
+6)Maintenance
+Corrective maintenance: 
+Adaptive maintenance: 
+Perfective Maintenance: 
+
+
+
