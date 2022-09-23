@@ -1,0 +1,26 @@
+When to Test?
+=>Implementation
+=>Module Performance
+=>Production
+
+Product =>product owner
+Project =>product client
+
+
+Software Architecture:
+1)Presentation Layer->Present->view
+		+
+2)Business Layer(Application Layer)
+		+
+3)Data Layer
+
+tier->
+one tier
+two tier
+three tier
+
+rfflow
+https://app.diagrams.net/
+
+
+
